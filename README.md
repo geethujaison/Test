@@ -1,5 +1,7 @@
 # Modify database.php file
+
 $db['default'] = array(
+
 	'dsn'	=> '',
 	'hostname' => 'localhost',
 	'username' => 'root',
